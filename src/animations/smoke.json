@@ -1,0 +1,294 @@
+{
+  "frames": {
+    "smoke_1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_2": {
+      "frame": {
+        "x": 39,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_3": {
+      "frame": {
+        "x": 78,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_4": {
+      "frame": {
+        "x": 117,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_5": {
+      "frame": {
+        "x": 156,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_6": {
+      "frame": {
+        "x": 0,
+        "y": 60,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_7": {
+      "frame": {
+        "x": 39,
+        "y": 60,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_8": {
+      "frame": {
+        "x": 78,
+        "y": 60,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_9": {
+      "frame": {
+        "x": 117,
+        "y": 60,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_10": {
+      "frame": {
+        "x": 156,
+        "y": 60,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_11": {
+      "frame": {
+        "x": 0,
+        "y": 120,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_12": {
+      "frame": {
+        "x": 39,
+        "y": 120,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_13": {
+      "frame": {
+        "x": 78,
+        "y": 120,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    },
+    "smoke_14": {
+      "frame": {
+        "x": 117,
+        "y": 120,
+        "w": 39,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 60
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "smoke.png",
+    "size": {
+      "w": 199,
+      "h": 182
+    },
+    "scale": 1
+  }
+}

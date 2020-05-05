@@ -1,0 +1,114 @@
+{
+  "frames": {
+    "cow_1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 89
+      }
+    },
+    "cow_2": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 89
+      }
+    },
+    "cow_3": {
+      "frame": {
+        "x": 0,
+        "y": 89,
+        "w": 96,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 89
+      }
+    },
+    "cow_4": {
+      "frame": {
+        "x": 96,
+        "y": 89,
+        "w": 96,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 89
+      }
+    },
+    "cow_5": {
+      "frame": {
+        "x": 0,
+        "y": 178,
+        "w": 96,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 89
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "cows.png",
+    "size": {
+      "w": 193,
+      "h": 269
+    },
+    "scale": 1
+  }
+}
